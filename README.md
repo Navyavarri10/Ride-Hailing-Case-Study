@@ -225,9 +225,4 @@ Ola-Uber-Retention-Case-Study/
 - Conduct A/B testing for Smart Recall
 - Analyze retention metrics using real-world datasets
 
----
 
-
----
-
-## ⭐ If you found this project interesting, consider giving it a star!
